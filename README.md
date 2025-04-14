@@ -1,7 +1,7 @@
 # SteamGuard TG Bot
 
 ## Description
-`SteamGuard TG Bot` is a Telegram bot for retrieving Steam Guard codes using maFiles. The program also allows adding Steam accounts for future use.
+`SteamGuard TG Bot` is a Telegram bot for retrieving Steam Guard codes using json files. The program also allows adding Steam accounts for future use.
 
 ## Features
 - **Run Telegram Bot**: The bot accepts a Steam login and returns a Steam Guard code.
